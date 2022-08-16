@@ -49,4 +49,39 @@ li a{
 li a:hover{
   background: rgb(15, 168, 143);
   color:rgb(32, 121, 148);
+
+
+}
+#joaninha {
+  width: 15%;
+}
+.caixajoaninha{
+  position: absolute;
+  top: 45px;
+  width: 90%;
+  height: 120px;
+  background:rgb(5, 39, 90) ;
+  left: 0;
+  margin: 20px;
+  border-color: rgb(70, 20, 206);
+  border-style: solid;
+  border-width: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.caixajoaninha2{
+  position: absolute;
+  top: 45px;
+  width: 90%;
+  height: 120px;
+  background:rgb(5, 39, 90) ;
+  left: 0;
+  margin: 20px;
+  border-color: rgb(70, 20, 206);
+  border-style: solid;
+  border-width: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: end;
 }
